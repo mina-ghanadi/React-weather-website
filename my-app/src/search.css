@@ -1,0 +1,45 @@
+.all {
+  background-color: rgba(255, 255, 255, 0.3);
+  height: 100%;
+  width: 100%;
+}
+.sunny {
+  background-image: url("https://s31.picofile.com/file/8469107126/sunny.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.clear-night {
+  background-image: url("https://s30.picofile.com/file/8469107042/clear_night.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.cloud-day {
+  background-image: url("https://s31.picofile.com/file/8469107050/cloud_day.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.cloud-night {
+  background-image: url("https://s31.picofile.com/file/8469107076/cloud_night.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.rain {
+  background-image: url("https://s31.picofile.com/file/8469107100/rain.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.thunder {
+  background-image: url("https://s31.picofile.com/file/8469107134/thunder.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.snow {
+  background-image: url("https://s31.picofile.com/file/8469107118/snow.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
+.fog {
+  background-image: url("https://s31.picofile.com/file/8469107084/fog.jpg");
+  background-size: "cover";
+  background-repeat: "no-repeat";
+}
